@@ -23,8 +23,7 @@
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
+[6.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
