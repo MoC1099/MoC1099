@@ -3,3 +3,4 @@
 - 🌱 I’m a CS student @ Rutgers University NB and aspiring software developer. 
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me @ Msc249@scarletmail.rutgers.edu
+[Link to Google](https://www.google.com)
